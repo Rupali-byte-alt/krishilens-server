@@ -1,0 +1,7 @@
+'Pepper Bell Bacterial Spot',           # 0
+'Potato Early Blight',                  # 1
+'Potato Late Blight',                   # 2
+'Tomato Bacterial Spot',                # 3
+'Tomato Septoria Leaf Spot',            # 4
+'Tomato Yellow Leaf Curl Virus'         # 5
+

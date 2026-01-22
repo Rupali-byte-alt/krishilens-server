@@ -1,0 +1,42 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+*.egg-info/
+build/
+dist/
+
+# Dependencies
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Local config
+config.json
+secrets.json
+
+# Explicitly include our model
+!models/best.pt

@@ -1,0 +1,11 @@
+{
+  "build": {
+    "builder": "python",
+    "pythonVersion": "3.11"
+  },
+  "deploy": {
+    "startCommand": "python app.py",
+    "healthcheckPath": "/health",
+    "healthcheckTimeout": 120
+  }
+}
